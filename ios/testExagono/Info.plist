@@ -4,6 +4,13 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>UIAppFonts</key>
+    <array>
+      <string>FontAwesome6_Brands.ttf</string>
+      <string>FontAwesome6_Regular.ttf</string>
+      <string>FontAwesome6_Solid.ttf</string>
+      <string>Octicons.ttf</string>
+    </array>
 	<key>CFBundleDisplayName</key>
 	<string>testExagono</string>
 	<key>CFBundleExecutable</key>
